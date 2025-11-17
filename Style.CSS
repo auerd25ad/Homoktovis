@@ -1,6 +1,10 @@
 body{
   background-image: url('hatter.png');
-  padding: 15px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
 }
 
 h1{
